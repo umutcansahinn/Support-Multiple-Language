@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MultiLanguageSupport</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="welcome_tv">Welcome</string>
+    <string name="how_are_you_tv">How are you</string>
+    <string name="you_are_in_dashboard_screen">You are in Dashboard Screen</string>
+    <string name="Turkish">Turkish</string>
+    <string name="German">German</string>
+    <string name="English">English</string>
+    <string name="change_language">Change Language</string>
+</resources>

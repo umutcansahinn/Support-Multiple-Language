@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MultiLanguageSupport</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="how_are_you_tv">Nasılsın</string>
+    <string name="welcome_tv">Hoş Geldiniz</string>
+    <string name="you_are_in_dashboard_screen">Dashboard ekranındasınız</string>
+    <string name="Turkish">Türkçe</string>
+    <string name="German">Almanca</string>
+    <string name="English">İngilizce</string>
+    <string name="change_language">Dili değiştir</string>
+</resources>
